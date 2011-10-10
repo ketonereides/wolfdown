@@ -20,11 +20,11 @@ Feel free to contact me at <keto@ontheclock.us> with any questions, suggestions,
 
 John Gruber of [Daring Fireball](http://daringfireball.net/) for creating Markdown.
 
-Michel Fortin of [Michelf](http://michelf.com) for creating PHP Markdown Extra.
+Michel Fortin of [Michelf](http://michelf.com/) for creating PHP Markdown Extra.
 
 # Licensing
 
-Copyright (C) 2011 by Keto
+Copyright (C) 2011 by [ketonereides](https://github.com/ketonereides/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
