@@ -16,6 +16,8 @@ I've included the [Sass](http://sass-lang.com/) file for those of you who want i
 
 Feel free to contact me at <keto@ontheclock.us> with any questions, suggestions, or comments.
 
+For major updates, please [subscribe to the newsletter](http://tinyletter.com/wolfdown/)
+
 # Thanks to
 
 John Gruber of [Daring Fireball](http://daringfireball.net/) for creating Markdown.
