@@ -1,8 +1,8 @@
-### About
+# About
 
 Wolfdown is a simple flat file CMS designed with players of RPGs in mind, although it could honestly be used for any small website project.
 
-### Use
+# Use
 
 To install, simply drop the directory onto your server. PHP 5+ is the only known requirement, but it's likely to work on older versions.
 
@@ -16,13 +16,13 @@ I've included the [Sass](http://sass-lang.com/) file for those of you who want i
 
 Feel free to contact me at <amwelles@gmail.com> with any questions, suggestions, or comments.
 
-### Thanks to
+# Thanks to
 
 John Gruber of [Daring Fireball](http://daringfireball.net/) for creating Markdown.
 
 Michel Fortin of [Michelf](http://michelf.com) for creating PHP Markdown Extra.
 
-### Licensing
+# Licensing
 
 Copyright (C) 2011 by Autumn Welles
 
