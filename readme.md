@@ -14,7 +14,7 @@ The Home.markdown file needs to keep its extension so it doesn't show up twice i
 
 I've included the [Sass](http://sass-lang.com/) file for those of you who want it, but the CSS file should be more than enough for most users.
 
-Feel free to contact me at <amwelles@gmail.com> with any questions, suggestions, or comments.
+Feel free to contact me at <keto@ontheclock.us> with any questions, suggestions, or comments.
 
 # Thanks to
 
@@ -24,7 +24,7 @@ Michel Fortin of [Michelf](http://michelf.com) for creating PHP Markdown Extra.
 
 # Licensing
 
-Copyright (C) 2011 by Autumn Welles
+Copyright (C) 2011 by Keto
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
