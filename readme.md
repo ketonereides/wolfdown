@@ -6,7 +6,7 @@ Wolfdown is a simple flat file CMS designed with players of RPGs in mind, althou
 
 To install, simply drop the directory onto your server. PHP 5+ is the only known requirement, but it's likely to work on older versions.
 
-To add pages, simply create a new file with a `.md` extension in the `content` folder, and it will automagically appear in the navigation. All files are [Markdown](http://daringfireball.net/projects/markdown/) and [Markdown Extra](http://michelf.com/projects/php-markdown/extra/) compaitable. You'll want to go there if you're looking for directions and syntax guides.
+To add pages, simply create a new file with a `.md` extension in the `content` folder, and it will automagically appear in the navigation. All files are [Markdown](http://daringfireball.net/projects/markdown/) and [Markdown Extra](http://michelf.com/projects/php-markdown/extra/) compatible. You'll want to go there if you're looking for directions and syntax guides.
 
 Use the `config.php` file to set the title and add links to the navigation.
 
@@ -16,7 +16,7 @@ I've included the [Sass](http://sass-lang.com/) file for those of you who want i
 
 Feel free to contact me at <keto@ontheclock.us> with any questions, suggestions, or comments.
 
-For major updates, please [subscribe to the newsletter](http://tinyletter.com/wolfdown/)
+For major updates, please [subscribe to the newsletter](http://tinyletter.com/wolfdown/).
 
 # Thanks to
 
