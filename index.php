@@ -82,7 +82,7 @@ if(isset($_GET['id'])) {
 
 ?>
 
-<div id="footer">Powered by <a href="http://thecollective.nfshost.com/wolfdown/">Wolfdown</a></div>
+<div id="footer">Powered by <a href="https://github.com/ketonereides/wolfdown">Wolfdown</a></div>
 
 </body>
 </html>
