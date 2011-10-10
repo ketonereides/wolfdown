@@ -1,0 +1,93 @@
+$bg: #fff
+$fg: #000
+$hl: #009
+$font: Verdana, sans-serif
+$headings: Georgia, serif
+
+html
+  background: #eee
+
+body
+  background: $bg
+  border: 1px solid #ccc
+  color: $fg
+  font:
+    family: $font
+    size: 12px
+  line-height: 1.75em
+  width: 720px
+  margin: 3em auto
+  padding: 2em 3em
+
+a
+  &:link, &:visited
+    color: lighten($fg, 55)
+    font-weight: bold
+  &:active, &:hover
+    color: $hl
+
+#nav
+  margin: 0
+  padding: 0
+  li
+    &:after
+      content: "\20\b7\20"
+    &:last-child
+      &:after
+        content: ""
+    margin: 0
+    display: inline
+
+h1, h2, h3, h4, h5, h6
+  font:
+    family: $headings
+    weight: normal
+
+h1
+  font-size: 4em
+
+h2
+  color: lighten($fg, 30)
+  font-size: 2.5em
+  font-weight: bold
+  letter-spacing: -.08em
+  border-bottom: 5px solid lighten($fg, 90)
+  padding-bottom: .5em
+
+h3
+  font-size: 2em
+  
+h4
+  font-size: 1.5em
+
+h5
+  font-size: 1.25em
+
+h6
+  font-size: 1em
+
+hr
+  display: none
+  
+.footnotes
+  border-top: 1px solid fade-out($fg, .8)
+  margin-top: 2em
+
+table
+  background: fade-out($fg, .8)
+  border-spacing: 1px
+  td, th
+    background: $bg
+    padding: .5em
+
+pre
+  background: fade-out($fg, .9)
+  padding: 10px
+
+p > code
+  background: fade-out($fg, .9)
+  padding: 0 2px
+
+#footer
+  text-align: right
+  font-size: 10px
