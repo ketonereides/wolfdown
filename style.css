@@ -1,0 +1,30 @@
+body {
+  background: white;
+  color: #333333;
+  font-family: "Lucida Grande", Verdana, sans-serif;
+  font-size: 12px;
+  margin: 3em auto;
+  width: 80%; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, serif; }
+
+a:link, a:visited {
+  color: rgba(0, 153, 153, 0.6); }
+a:active, a:hover {
+  color: #009999; }
+
+header h1 {
+  font-size: 4em;
+  font-weight: normal; }
+  header h1 small {
+    font-family: "Lucida Grande", Verdana, sans-serif;
+    font-size: 0.33em;
+    vertical-align: middle; }
+
+pre > code {
+  background: #aaaaaa;
+  color: white;
+  padding: 1em;
+  margin-left: -1em;
+  display: block; }
